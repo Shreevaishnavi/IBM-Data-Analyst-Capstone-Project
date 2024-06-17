@@ -3,6 +3,7 @@ Welcome to my data analytics capstone project on IBM!
 I assume the role of a Data Analyst for a large international IT and business consulting organization that is renowned for its knowledge of IT solutions and its staff of highly skilled IT experts. The company frequently analyzes data to help determine future skill requirements in order to be competitive and keep up with rapidly evolving technologies. I will be supporting this program as a data analyst, and I have been given the responsibility of gathering information from various sources and spotting trends for this year's report on developing skills.
 
 So each process in analysing the data is stored in the Jupyter notebooks that are uploaded.
+
 Week 1 data collection
 My first task is to gather a list of the most in-demand programming skills from job advertising, training websites, and polls, among other sources. In order to gather data in many formats like.csv files, excel sheets, and databases, I will start by scraping internet websites and using APIs.
 
